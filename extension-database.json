@@ -4,5 +4,8 @@
     ],
     "blocked-extensions": [
         
+    ],
+    "recommended-extensions": [
+        "ii-vynx-test-extension"
     ]
 }
