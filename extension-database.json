@@ -3,7 +3,7 @@
         { "extension-id": "vynx-wallpaper-browser", "trustedCommit": "e2dbec22183add39f20720d5438b871e59e47fc3" }
     ],
     "blocked-extensions": [
-        
+        { "extension-id": "vynx-extension-audit" }
     ],
     "recommended-extensions": [
         "ii-vynx-test-extension"
