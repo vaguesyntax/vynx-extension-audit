@@ -1,6 +1,10 @@
 {
     "trusted-extensions": [
-        { "extension-id": "vynx-wallpaper-browser", "trustedCommit": "e2dbec22183add39f20720d5438b871e59e47fc3" }
+        { "extension-id": "vynx-wallpaper-browser", "trustedCommit": "e2dbec22183add39f20720d5438b871e59e47fc3" },
+        { "extension-id": "ii-eve-cheatsheet-commands", "trustedCommit": "9e41a119110c7bade5b342ce4616515e0e9714ed" },
+        { "extension-id": "ii-eve-app-launcher", "trustedCommit": "d37ebb13219e095daa1c18b1efa8ac627d166e78" },
+        { "extension-id": "ii-eve-anime-booru", "trustedCommit": "b44ca91e5be9011b38ae31e933d3fed965cb8520" }
+        { "extension-id": "ii-eve-cheatsheet-keybinds", "trustedCommit": "77e82be3a0203448030eb9cdb7604ebaa44ec095" }
     ],
     "blocked-extensions": [
         { "extension-id": "vynx-extension-audit" }
